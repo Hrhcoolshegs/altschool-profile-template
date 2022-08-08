@@ -14,5 +14,5 @@ I'm a Product Manager, Product-Led Growth Strategist and Analyst, studying Softw
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hrhcoolshegs&show_icons=true&include_all_commits=true&hide_border=true" alt="Oluwasegun's Github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrhcoolshegs&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hrhcoolshegs&show_icons=true&include_all_commits=true&hide_border=true" alt="Oluwasegun's Github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrhcoolshegs&langs_count=8&layout=compact&hide_border=true" alt="Oluwasegun's GitHub stats" /> |
 | ------------- | ------------- |
