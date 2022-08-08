@@ -10,7 +10,7 @@ I'm a Product Manager, Product-Led Growth Strategist and Analyst, studying Softw
 - 🌱 I’m currently learning HTML, CSS, JavaScript and Reactjs.
 - 😊 I’m also looking to contribute on open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Associate Product Manager, Associate Program Manager,Junior Frontend Engineer.
-- 📫 You can [view my resume](#) and contact me by emailing mailtobolaji@gmail.com.
+- 📫 You can [view my resume](#) and contact me by emailing oluwasegunhrh@gmail.com.
 
 ---
 
